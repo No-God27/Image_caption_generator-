@@ -21,4 +21,4 @@ Convolutional Neural networks are specialized deep neural networks which can pro
 # What is LSTM?
 LSTM stands for Long short term memory, they are a type of RNN (recurrent neural network) which is well suited for sequence prediction problems. Based on the previous text, we can predict what the next word will be. It has proven itself effective from the traditional RNN by overcoming the limitations of RNN which had short term memory. LSTM can carry out relevant information throughout the processing of inputs and with a forget gate, it discards non-relevant information.
 
-## This model has a BLEU score of only 0.1 because it is not trained enough due to limited resources. If this model was trained with more no of epochs, more accurate results would have been obtained
+## This model has a BLEU score of only 0.3 because it is not trained enough due to limited resources. If this model was trained with more no of epochs, more accurate results would have been obtained
